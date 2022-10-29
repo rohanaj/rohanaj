@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: Email rohan.ajmani@gmail.com
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/user6418r)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rohanaj2403)
 
