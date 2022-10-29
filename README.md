@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AWS and Python
 - 💬 Ask me about ...
 - 📫 How to reach me: Email rohan.ajmani@gmail.com
-- ```Leetcode```
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rohanaj)
 
